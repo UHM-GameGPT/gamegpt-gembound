@@ -1,3 +1,4 @@
+(assets/images/gemboundlogo.png)
 # Game Development Team: UHM-GameGPT
 * Iverson Yago
 * Juan Olivo
